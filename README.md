@@ -2,6 +2,8 @@
 
 ## 🦾 Nome do Grupo: **LegacyTech**
 
+![Image](https://github.com/user-attachments/assets/74e6b878-5359-4c75-804a-05a8688c804a)
+
 # Plataforma Interna de Mapeamento de Competências - Altave
 
 <p align="center">
@@ -27,6 +29,7 @@
 | Developer | Ed Wilson | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com) |<p align="center"><img src= "https://github.com/user-attachments/assets/32812572-8636-43e6-bc31-88844c1fe8c3" alt=" Ed " style="width:60px;height:60px;">
 | Developer | Kauã R. | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kauarabelo) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Kauarabelo) |<p align="center"><img src= "https://github.com/user-attachments/assets/38ad8dc3-498a-42d3-ab59-3a2ca8e4c55d" alt="Kauã" style="width:60px;height:60px;">
 | DBA | Aguinaldo Junior | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aguinaldo-cardoso-427270200) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/aguinaldojunior31) |<p align="center"><img src= "https://github.com/user-attachments/assets/29fe9cac-0ca1-410d-a42e-e8b6daf94640" alt="Aguinaldo" style="width:60px;height:60px;">
+| Developer | Carlos Eduardo Costa  | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-costa-13146697/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carloscosta67) |<p align="center"><img src= "https://github.com/user-attachments/assets/6556b826-c55c-4578-b7a6-7821fe7ef1b6" alt=" Carlos " style="width:60px;height:60px;">
 
 ## :dart: Contextualização
 
